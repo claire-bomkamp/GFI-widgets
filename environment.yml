@@ -1,0 +1,8 @@
+name: py3
+dependencies:
+  - python=3
+  - ipywidgets
+  - matplotlib
+  - airtable
+  - os
+  - pandas
