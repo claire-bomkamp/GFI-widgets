@@ -3,6 +3,7 @@ dependencies:
   - python=3
   - ipywidgets
   - matplotlib
-  - airtable
-  - os
   - pandas
+  - pip
+  - pip:
+    - airtable
