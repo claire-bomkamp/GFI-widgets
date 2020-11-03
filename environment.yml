@@ -6,4 +6,4 @@ dependencies:
   - pandas
   - pip
   - pip:
-    - airtable
+    - airtable-python-wrapper
