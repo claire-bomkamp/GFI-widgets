@@ -5,4 +5,6 @@ dependencies:
   - matplotlib
   - pandas
   - numpy
-  - nbinteract
+  - pip
+  - pip:
+    - nbinteract
