@@ -4,6 +4,5 @@ dependencies:
   - ipywidgets
   - matplotlib
   - pandas
-  - pip
-  - pip:
-    - airtable-python-wrapper
+  - numpy
+  - nbinteract
