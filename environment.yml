@@ -5,6 +5,7 @@ dependencies:
   - matplotlib
   - pandas
   - numpy
+  - seaborn
   - pip
   - pip:
     - nbinteract
