@@ -1,74 +1,73 @@
-﻿Archetype,Scientific Name (from Species) 2,Score: Overall Sustainability,Score:  Greenhouse Gas Emissions,Score: Edible Coefficient,Score: Mercury Concentration,Score: Max Number of Individuals (Log),Score: U.S. Retail Sales (Log),Score: U.S. Menu Prevalence,Score: Import Value (Log),Score: Import Volume (Log),Average Score
-Sunfish/Opah,,0.98,,,,,,,,,0.98
-Triggerfish,,0.96,,,,,,,,,0.96
-Tuna (Not Specified),,,,,,,0.89,,0.85,0.88,0.87
-Shrimp/Prawn,"Penaeus monodon,Macrobrachium,Macrobrachium rosenbergii,Macrobrachium malcolmsonii,Crangon crangon,Pandalus hypsinotus,Pandalus borealis,Pandalus,Penaeidae,Metapenaeus endeavouri,Metapenaeus macleayi,Metapenaeus monoceros,Penaeus esculentus,Penaeus latisulcatus,Penaeus merguiensis,Penaeus merguiensis,Penaeus semisulcatus,Litopenaeus vannamei,Sergestidae,Palaemonidae,Mesopodopsis orientalis,Acetes indicus,Acetes,Pleoticus muelleri,Parapenaeus longirostris,Melicertus plebejus,Haliporoides sibogae,Parapenaeus australiensis,Plesionika martia,Litopenaeus stylirostris,Penaeus chinensis,Marsupenaeus japonicus,Penaeus penicillatus,Farfantepenaeus californiensis",0.76,0.48,,,,1.00,,1.00,1.00,0.85
-Tilefish,,0.77,,,,,,,,,0.77
-Crab,"Cancridae,Cancer magister,Cancer pagurus,Chionoecetes,Portunidae,Callinectes sapidus,Portunus pelagicus,Scylla serrata,Lithodidae,Paralithodes camtschaticus,Eriocheir sinensis,Ucides cordatus",1.00,0.84,0.85,0.058,,0.81,0.77,0.90,0.80,0.75
-Lobster,"Nephropidae,Homarus americanus,Homarus gammarus,Nephrops norvegicus,Palinuridae,Jasus edwardsii,Panulirus argus",0.95,0.93,0.67,,,0.63,0.37,0.86,0.73,0.73
-Toothfish,,0.95,,,,,,,0.66,0.53,0.71
-Salmon,"Salmo salar,Salmo trutta,Oncorhynchus gorbuscha,Oncorhynchus nerka,Oncorhynchus tshawytscha,Oncorhynchus masou masou,Oncorhynchus kisutch,Oncorhynchus keta,Oncorhynchus mykiss",0.69,0.14,0.18,,0.54,0.96,1.00,0.96,0.94,0.68
-Dolphinfish (including mahi mahi) ,Coryphaena hippurus,0.91,,,,,0.37,,0.66,0.63,0.64
-Tuna (Albacore/Skipjack),"Thunnus alalunga,Katsuwonus pelamis,Euthynnus alletteratus",0.81,0.18,,,,0.87,,0.66,0.68,0.64
-"Flatfish (halibut, flounder, etc.)","Scophthalmus maximus,Paralichthys olivaceus,Pseudopleuronectes yokohamae,Kareius bicoloratus,Microstmus achne",0.86,0.54,,,0.42,0.57,,0.67,0.65,0.62
-Crayfish,"Astacidae,Cambaridae,Parastacidae,Procambarus clarkii",0.47,,1.00,,,0.44,,0.56,0.51,0.60
-Sea Cucumber,,0.79,0.76,,,,,,0.43,0.37,0.59
-Haddock,Melanogrammus aeglefinus,0.86,0.30,,,,0.46,,0.64,0.66,0.58
-Scallops,"Pectinidae,Pecten maximus",0.00,0.60,0.98,,,0.60,,0.67,0.62,0.58
-Billfish (including marlin and swordfish),"Kajikia albida,Istiompax indica,Makaira nigricans,Kajikia audax,Xiphias gladius",0.91,0.42,,,,0.41,,0.57,0.56,0.57
-Sardines,"Sardinops sagax,Sardina pilchardus",0.97,0.01,,,,0.52,,0.62,0.71,0.57
-Tuna (Bluefin/Bigeye/Yellowfin),"Thunnus maccoyii,Thunnus albacares,Thunnus obesus,Thunnus thynnus,Thunnus orientalis",0.91,0.18,,,0.22,0.58,,0.69,0.65,0.54
-Cod,"Gadus morhua,Gadus macrocephalus",0.96,0.15,0.69,0.105,,0.66,0.21,0.76,0.76,0.54
-Eels,"Anguilla japonica,Conger myriaster,Carapus acus,Anguilla rostrata,Anguilla anguilla",0.89,0.03,,,0.72,,,0.56,0.49,0.54
-Orange Roughy,,0.98,,,0.579,,0.18,,0.43,0.38,0.51
-Sea Urchin,Paracentrotus lividus,0.75,,,,,,,0.42,0.36,0.51
-Sole,"Solea senegalensis,Eopsetta jordani,Solea solea",0.41,1.00,,,0.04,,,0.53,0.56,0.51
-Oysters,"Crassostrea gigas,Crassostrea,Crassostrea rhizophorae,Ostrea edulis",0.35,0.52,,,,0.49,,0.57,0.57,0.50
-Smelts,"Atherina boyeri,Plecoglossus altivelis,Glossanodon semifasciatus,Hypomesus nipponensis",0.80,,,,0.29,,,0.38,0.51,0.50
-Shark,"Squalus acanthias,Triakis scyllium,Scyliorhinus canicula,Prionace glauca,Scoliodon laticaudus",0.97,,,1.000,,,,0.00,0.00,0.49
-Tilapia,"Oreochromis niloticus,Oreochromis aureus",0.43,0.04,0.64,0.004,0.84,0.72,0.10,0.77,0.86,0.49
-Trout,"Oncorhynchus mykiss,Salmo trutta",0.64,0.04,0.25,,0.72,0.46,,0.64,0.60,0.48
-Grouper,"Epinephelus akaara,Epinephelus coioides",0.94,0.17,,,0.47,0.20,,0.53,0.52,0.47
-Octopus,"Octopus vulgaris,Octopodidae",0.90,0.61,,,,0.28,0.08,,,0.47
-Catfish,"Pangasianodon hypophthalmus,Ictalurus punctatus,Clarias gariepinus,Clarias macrocephalus,Clarias batrachus,Clarias,Kryptopterus bicirrhis,Heteropneustes fossilis,Wallago attu,Clarias dussumueri,Clarias magur,Ameiurus nebulosus,Ameiurus melas",0.46,0.07,0.53,0.015,0.83,0.65,0.02,0.74,0.80,0.46
-Pollock,,0.90,0.09,,0.023,,0.41,,0.59,0.69,0.45
-Hake,"Merluccius merluccius,Merluccius capensis",0.87,0.34,,0.072,,,,0.43,0.52,0.45
-Krill,,0.76,0.18,,,,,,0.36,0.48,0.45
-Perch and other perciforms,"Lepomis macrochirus,Pomoxis nigromaculatus,Perca flavescens,Sander canadensis,Sebastes norvegicus,Perca fluviatilis,Oplegnathus fasciatus,Etroplus suratensis,Anarhichas minor",0.65,0.13,,,0.63,0.25,,0.50,0.51,0.44
-Conchs,"Strombidae,Strombus galeatus",0.86,,,,,0.00,,0.48,0.39,0.43
-Bluefish,,0.76,,,0.370,0.15,,,,,0.43
-Seabream,"Sparus aurata,Boops boops,Pagrus major,Dentex dentex",0.67,0.09,,,0.67,,,0.36,0.34,0.43
-Bass,"Dicentrarchus labrax,Pomoxis nigromaculatus,Lateolabrax japonicus,Lates calcarifer,Centropristis striata",0.53,0.09,0.45,,0.49,0.32,,0.54,0.55,0.42
-Clam,"Veneridae,Chamelea gallina,Rangia cuneata",0.36,0.06,0.80,0.000,,0.51,0.41,0.56,0.64,0.42
-Rockfish,,0.80,0.03,,,,,,,,0.41
-Whitefish (freshwater),Coregonus clupeaformis,0.82,,,,0.00,,,,,0.41
-Mackerel,"Trachurus trachurus,Trachurus japonicus,Scomber japonicus,Sarda sarda,Scomber scombrus",0.71,0.11,0.36,,0.11,0.27,,0.56,0.66,0.40
-Pike and pickerel,"Esox lucius,Esox masquinongy,Sander vitreus,Spicara smaris,Muraenesox cinereus",0.85,0.03,,,0.09,,,0.52,0.45,0.39
-Herring,"Clupea harengus,Spratelloides gracilis",0.72,0.02,,0.071,,0.39,,0.53,0.60,0.39
-Sablefish,Anoplopoma fimbria,0.69,,,0.363,,,,0.28,0.19,0.38
-Butterfish,,0.91,,,0.051,,,,0.25,0.32,0.38
-Snapper,"Ocyurus chrysurus,Lutjanus,Lutjanus argentimaculatus,Rhomboplites aurorubens",0.84,0.17,,0.162,0.22,0.39,0.00,0.62,0.62,0.38
-Carp,"Cyprinus carpio,Tinca tinca,Gibelion catla,Labeo rohita",0.74,0.05,,0.104,1.00,,,0.14,0.21,0.37
-Squid,"Loligo vulgaris,Loligo,Ommastrephidae,Uroteuthis duvaucelii",0.94,0.06,0.00,0.015,,0.35,0.10,0.71,0.75,0.37
-Mullet,"Mullus barbatus,Mugil cephalus cephalus",0.81,0.09,,0.042,0.48,,,,,0.36
-Anchovy,Engraulis encrasicolus,0.95,0.01,,0.007,,0.25,0.31,0.48,0.45,0.35
-Caviar,,,,,,,0.16,,0.49,0.37,0.34
-Abalone,Haliotis,0.14,,0.55,,,,,0.43,0.24,0.34
-Amberjack,Seriola quinqueradiata,0.62,0.02,,,0.37,,,,,0.34
-Skates/Rays,Hemitrygon akajei,0.82,,,,,,,0.03,0.03,0.30
-Cobia,,0.52,0.05,,,,,,0.27,0.21,0.26
-Mussels,"Mytilus galloprovincialis,Mytilus,Mytilus coruscus,Mytilus edulis,Perna,Perna canaliculus,Perna viridis",0.27,0.00,0.41,,,0.36,,,,0.26
-Whiting,Merlangius merlangus,,0.08,,0.043,,0.40,,0.36,0.42,0.26
-Cockles,,0.28,,,,,,,0.22,0.26,0.25
-Lingcod,Rachycentron,0.78,0.15,,,,,,0.04,0.00,0.24
-Cuttlefish,"Sepiidae,Sepia officinalis",,0.04,0.00,,,,,0.45,0.45,0.24
-Scorpionfish,,,,,0.231,,,,,,0.23
-Sturgeon,Acipenser transmontanus,0.26,0.04,,,0.40,,,0.07,0.04,0.16
-Monkfish,,,0.03,,0.157,,,,,,0.09
-Angler Fish,,,0.07,,,,,,,,0.07
-Blowfin,,,,,,,,,,,NaN
-Elephantfish,Gnathonemus petersii,,,,,,,,,,NaN
-Minnows and killifish,"Danio rerio,Fundulus heteroclitus,Pimephales promelas,Austrofundulus limnaeus",,,,,,,,,,NaN
-Turtle,Pelodiscus sinensis,,,,,,,,,,NaN
-Arapaima,,,,,,,,,,,NaN
-,,,,,,,,,,,NaN
+﻿Archetype,Scientific Name (PISCES),Score: Overall Sustainability,Score:  GHG Emissions,Score: Edible Coefficient,Score: Max Number of Individuals (Log),Score: Mercury Concentration,Score: U.S. Retail Sales (Log),Score: U.S. Menu Prevalence,Score: Import Value (Log),Score: Import Volume (Log),Average Score
+Crab,"Cancridae,Cancer magister,Cancer pagurus,Chionoecetes,Portunidae,Callinectes sapidus,Portunus pelagicus,Scylla serrata,Lithodidae,Paralithodes camtschaticus,Eriocheir sinensis,Ucides cordatus",1.00,0.84,0.84,0.72,0.06,0.81,0.47,0.90,0.80,0.62
+Lobster,"Nephropidae,Homarus americanus,Homarus gammarus,Nephrops norvegicus,Palinuridae,Jasus edwardsii,Panulirus argus",0.95,0.93,0.66,0.72,0.11,0.63,0.23,0.86,0.73,0.58
+Tuna (Not Specified),,0.73,0.22,0.51,0.51,0.35,0.89,0.54,0.85,0.88,0.52
+Shrimp/Prawn,"Penaeus monodon,Macrobrachium,Macrobrachium rosenbergii,Macrobrachium malcolmsonii,Crangon crangon,Pandalus hypsinotus,Pandalus borealis,Pandalus,Penaeidae,Metapenaeus endeavouri,Metapenaeus macleayi,Metapenaeus monoceros,Penaeus esculentus,Penaeus latisulcatus,Penaeus merguiensis,Penaeus merguiensis,Penaeus semisulcatus,Litopenaeus vannamei,Sergestidae,Palaemonidae,Mesopodopsis orientalis,Acetes indicus,Acetes,Pleoticus muelleri,Parapenaeus longirostris,Melicertus plebejus,Haliporoides sibogae,Parapenaeus australiensis,Plesionika martia,Litopenaeus stylirostris,Penaeus chinensis,Marsupenaeus japonicus,Penaeus penicillatus,Farfantepenaeus californiensis",0.76,0.48,0.37,0.72,0.01,1.00,0.51,1.00,1.00,0.50
+Tuna (Bluefin/Bigeye/Yellowfin),"Thunnus maccoyii,Thunnus albacares,Thunnus obesus,Thunnus thynnus,Thunnus orientalis",0.91,0.17,0.51,0.59,0.46,0.58,0.06,0.69,0.65,0.50
+Orange Roughy,,0.98,0.22,0.51,0.72,0.51,0.18,0.18,0.43,0.38,0.50
+Billfish (including marlin and swordfish),"Kajikia albida,Istiompax indica,Makaira nigricans,Kajikia audax,Xiphias gladius",0.91,0.42,0.51,0.05,0.66,0.41,0.18,0.57,0.56,0.50
+Shark,"Squalus acanthias,Triakis scyllium,Scyliorhinus canicula,Prionace glauca,Scoliodon laticaudus",0.97,0.22,0.51,0.25,0.87,0.48,0.18,0.00,0.00,0.48
+Tilefish,,0.77,0.22,0.51,0.50,0.56,0.48,0.18,0.69,0.68,0.46
+Grouper,"Epinephelus akaara,Epinephelus coioides",0.94,0.17,0.51,0.61,0.40,0.20,0.18,0.53,0.52,0.45
+Sea Cucumber,,0.79,0.76,0.51,0.72,0.19,0.48,0.18,0.43,0.37,0.45
+"Flatfish (including halibut, flounder, etc.)","Scophthalmus maximus,Paralichthys olivaceus,Pseudopleuronectes yokohamae,Kareius bicoloratus,Microstmus achne",0.86,0.46,0.51,0.62,0.13,0.57,0.03,0.67,0.65,0.44
+Cod,"Gadus morhua,Gadus macrocephalus",0.96,0.15,0.68,0.51,0.10,0.66,0.08,0.76,0.76,0.44
+Dolphinfish (including mahi mahi),Coryphaena hippurus,0.91,0.22,0.51,0.72,0.16,0.37,0.18,0.66,0.63,0.43
+Tuna (Albacore/Skipjack),"Thunnus alalunga,Katsuwonus pelamis,Euthynnus alletteratus",0.81,0.18,0.51,0.50,0.22,0.87,0.01,0.66,0.68,0.43
+Bluefish,,0.76,0.22,0.51,0.72,0.33,0.48,0.18,0.69,0.68,0.43
+Oysters,"Crassostrea gigas,Crassostrea,Crassostrea rhizophorae,Ostrea edulis,Ostrea,Crassostrea virginica",0.35,0.52,1.00,0.72,0.01,0.49,0.11,0.57,0.57,0.42
+Sunfish/Opah,,0.98,0.22,0.51,0.72,0.19,0.48,0.18,0.69,0.68,0.42
+Sole,"Solea senegalensis,Eopsetta jordani,Solea solea",0.41,1.00,0.68,0.53,0.19,0.48,0.03,0.53,0.56,0.42
+Triggerfish,,0.96,0.22,0.51,0.72,0.19,0.48,0.18,0.69,0.68,0.42
+Scallops,"Pectinidae,Pecten maximus",0.00,0.60,0.97,0.72,0.00,0.60,0.34,0.67,0.62,0.42
+Toothfish,,0.95,0.22,0.51,0.72,0.19,0.48,0.18,0.66,0.53,0.42
+Octopus,"Octopus vulgaris,Octopodidae",0.90,0.61,0.00,0.72,0.19,0.28,0.05,0.69,0.68,0.41
+Sardines,"Sardinops sagax,Sardina pilchardus",0.97,0.01,0.51,0.89,0.01,0.52,0.18,0.62,0.71,0.41
+Mackerel,"Trachurus trachurus,Trachurus japonicus,Scomber japonicus,Sarda sarda,Scomber scombrus",0.71,0.11,0.37,0.86,0.27,0.27,0.18,0.56,0.66,0.41
+Salmon,"Salmo salar,Salmo trutta,Oncorhynchus gorbuscha,Oncorhynchus nerka,Oncorhynchus tshawytscha,Oncorhynchus masou masou,Oncorhynchus kisutch,Oncorhynchus keta,Oncorhynchus mykiss",0.69,0.14,0.21,0.48,0.01,0.96,0.62,0.96,0.94,0.41
+Crayfish,"Astacidae,Cambaridae,Parastacidae,Procambarus clarkii",0.47,0.22,0.99,0.72,0.03,0.44,0.18,0.56,0.51,0.40
+Scorpionfish,,0.73,0.22,0.51,0.72,0.21,0.48,0.18,0.69,0.68,0.40
+Blowfin,,0.73,0.22,0.51,0.72,0.19,0.48,0.18,0.69,0.68,0.39
+Elephantfish,Gnathonemus petersii,0.73,0.22,0.51,0.72,0.19,0.48,0.18,0.69,0.68,0.39
+Minnows/Killifish,"Danio rerio,Fundulus heteroclitus,Pimephales promelas,Austrofundulus limnaeus",0.73,0.22,0.51,0.72,0.19,0.48,0.18,0.69,0.68,0.39
+Turtle,Pelodiscus sinensis,0.73,0.22,0.51,0.72,0.19,0.48,0.18,0.69,0.68,0.39
+Arapaima,,0.73,0.22,0.51,0.72,0.19,0.48,0.18,0.69,0.68,0.39
+Anchovy,Engraulis encrasicolus,0.95,0.01,0.51,1.00,0.01,0.25,0.19,0.48,0.45,0.39
+Caviar,,0.73,0.22,0.51,0.72,0.19,0.16,0.18,0.49,0.37,0.39
+Sablefish,Anoplopoma fimbria,0.69,0.22,0.51,0.72,0.32,0.48,0.18,0.28,0.19,0.39
+Snapper,"Ocyurus chrysurus,Lutjanus,Lutjanus argentimaculatus,Rhomboplites aurorubens",0.84,0.17,0.51,0.58,0.15,0.39,0.00,0.62,0.62,0.38
+Smelts,"Atherina boyeri,Plecoglossus altivelis,Glossanodon semifasciatus,Hypomesus nipponensis",0.80,0.22,0.51,0.74,0.19,0.48,0.18,0.38,0.51,0.38
+Rockfish,,0.80,0.03,0.51,0.72,0.19,0.48,0.18,0.69,0.68,0.38
+Anglerfish,,0.73,0.07,0.51,0.72,0.19,0.48,0.18,0.69,0.68,0.37
+Sea Urchin,Paracentrotus lividus,0.75,0.22,0.51,0.72,0.19,0.48,0.18,0.42,0.36,0.37
+Herring,"Clupea harengus,Spratelloides gracilis",0.72,0.02,0.51,0.84,0.05,0.39,0.18,0.53,0.60,0.37
+Haddock,Melanogrammus aeglefinus,0.86,0.30,0.51,0.41,0.05,0.46,0.03,0.64,0.66,0.37
+Pollock,,0.90,0.09,0.51,0.68,0.03,0.41,0.03,0.59,0.69,0.36
+Krill,,0.76,0.18,0.51,0.72,0.19,0.48,0.18,0.36,0.48,0.36
+Tilapia,"Oreochromis niloticus,Oreochromis aureus",0.43,0.04,0.63,0.72,0.01,0.72,0.06,0.77,0.86,0.36
+Eels,"Anguilla japonica,Conger myriaster,Carapus acus,Anguilla rostrata,Anguilla anguilla",0.89,0.03,0.51,0.57,0.19,0.48,0.18,0.56,0.49,0.36
+Bass/Croaker/Drum,"Dicentrarchus labrax,Pomoxis nigromaculatus,Lateolabrax japonicus,Lates calcarifer,Centropristis striata",0.53,0.10,0.44,0.72,0.19,0.32,0.18,0.54,0.55,0.36
+Monkfish,,0.73,0.03,0.51,0.72,0.14,0.48,0.18,0.69,0.68,0.36
+Clam,"Veneridae,Chamelea gallina,Rangia cuneata",0.36,0.06,0.79,0.72,0.01,0.51,0.26,0.56,0.64,0.35
+Conchs,"Strombidae,Strombus galeatus,Strombus gracilior",0.86,0.22,0.18,0.72,0.19,0.00,0.18,0.48,0.39,0.35
+Seabream,"Sparus aurata,Boops boops,Pagrus major,Dentex dentex",0.67,0.14,0.51,0.72,0.19,0.48,0.18,0.36,0.34,0.35
+Mullet,"Mullus barbatus,Mugil cephalus cephalus",0.81,0.09,0.51,0.68,0.04,0.48,0.18,0.69,0.68,0.34
+Catfish,"Pangasianodon hypophthalmus,Ictalurus punctatus,Clarias gariepinus,Clarias macrocephalus,Clarias batrachus,Clarias,Kryptopterus bicirrhis,Heteropneustes fossilis,Wallago attu,Clarias dussumueri,Clarias magur,Ameiurus nebulosus,Ameiurus melas",0.46,0.07,0.53,0.72,0.02,0.65,0.01,0.74,0.80,0.34
+Butterfish,,0.91,0.22,0.51,0.72,0.05,0.48,0.18,0.25,0.32,0.34
+Perch,"Lepomis macrochirus,Pomoxis nigromaculatus,Perca flavescens,Sander canadensis,Sebastes norvegicus,Perca fluviatilis,Oplegnathus fasciatus,Etroplus suratensis,Anarhichas minor",0.65,0.13,0.51,0.58,0.12,0.25,0.18,0.50,0.51,0.34
+Hake,"Merluccius merluccius,Merluccius capensis",0.87,0.34,0.51,0.54,0.07,0.48,0.03,0.43,0.52,0.34
+Lingcod,Rachycentron,0.78,0.15,0.51,0.72,0.19,0.48,0.18,0.04,0.00,0.34
+Trout,"Oncorhynchus mykiss,Salmo trutta",0.64,0.04,0.25,0.58,0.13,0.46,0.18,0.64,0.60,0.33
+Squid,"Loligo vulgaris,Loligo,Ommastrephidae,Uroteuthis duvaucelii,Loliginidae",0.94,0.06,0.01,0.72,0.02,0.35,0.18,0.71,0.75,0.33
+Mussels,"Mytilus galloprovincialis,Mytilus,Mytilus coruscus,Mytilus edulis,Perna,Perna canaliculus,Perna viridis",0.27,0.00,0.41,0.72,0.19,0.36,0.15,0.69,0.68,0.32
+Whiting,Merlangius merlangus,0.73,0.08,0.51,0.63,0.04,0.40,0.03,0.36,0.42,0.32
+Lake Whitefish,Coregonus clupeaformis,0.82,0.22,0.51,0.00,0.19,0.48,0.18,0.69,0.68,0.31
+Carp,"Cyprinus carpio,Tinca tinca,Gibelion catla,Labeo rohita",0.74,0.03,0.51,0.82,0.10,0.48,0.18,0.14,0.21,0.31
+Cobia,,0.52,0.05,0.51,0.72,0.19,0.48,0.18,0.27,0.21,0.31
+Amberjack,Seriola quinqueradiata,0.62,0.02,0.51,0.36,0.19,0.48,0.18,0.69,0.68,0.31
+Pike/Pickerel,"Esox lucius,Esox masquinongy,Sander vitreus,Spicara smaris,Muraenesox cinereus",0.85,0.22,0.65,0.07,0.08,0.48,0.18,0.52,0.45,0.30
+Abalone,Haliotis,0.14,0.22,0.54,0.72,0.19,0.48,0.18,0.43,0.24,0.30
+Cockles,,0.28,0.22,0.51,0.72,0.19,0.48,0.18,0.22,0.26,0.30
+Cuttlefish,"Sepiidae,Sepia officinalis",0.73,0.04,0.01,0.72,0.19,0.48,0.18,0.45,0.45,0.29
+Skates/Rays,Hemitrygon akajei,0.82,0.22,0.51,0.27,0.12,0.48,0.18,0.03,0.03,0.27
+Sturgeon,Acipenser transmontanus,0.26,0.04,0.51,0.32,0.19,0.48,0.18,0.07,0.04,0.21
