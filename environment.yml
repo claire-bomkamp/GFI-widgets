@@ -6,6 +6,3 @@ dependencies:
   - pandas
   - numpy
   - seaborn
-  - pip
-  - pip:
-    - nbinteract
